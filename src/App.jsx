@@ -4,7 +4,7 @@ import './App.css'
 function App() {
 
   return (
-   <h1>app is running</h1>
+   <h1>app is changed</h1>
   )
 }
 
